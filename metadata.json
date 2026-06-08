@@ -1,0 +1,6 @@
+{
+  "name": "ShifoDori Pro",
+  "description": "Smart Medication Tracker and Diet Advisor with AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
